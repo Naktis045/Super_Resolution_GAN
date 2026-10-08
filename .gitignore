@@ -1,0 +1,10 @@
+# Lock files
+poetry.lock
+
+# Configuration files
+config.py
+
+# Virtual environments
+venv/
+
+data/
